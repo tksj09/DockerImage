@@ -1,1 +1,1 @@
-From gcr.io/kubeflow-images-public/ingress-setup:latest
+FROM "gcr.io/kubeflow-images-public/ingress-setup:latest"
